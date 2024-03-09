@@ -9,7 +9,7 @@ I wanted to use a language similar to one i had used before (Java). Kotlin is a 
 
 # Development Environment
 
-I used the android studio hedgehog IDE with a built in emulator to test how it would run in an android environment
+I used the android studio hedgehog IDE with a built in emulator to test how it would run in an android environment.
 
 I used the Kotlin language with some xml to facilitate the application.
 
